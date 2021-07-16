@@ -12,4 +12,4 @@ A simple tool to allow streamers to play music from a directory and adjust level
 1. Add http://localhost:9119/ as a browser source in OBS or your streaming software of choice
     1. Customize the CSS as you see fit, would recommend at the very least increasing font size
     1. Enable "Control audio via OBS" to be able to control the audio in OBS
-1. Enable audio monitoring in the OBS mixer if you want to hear the music too
+1. Enable audio monitoring in the OBS mixer or use a plugin like [Audio Monitor](https://obsproject.com/forum/resources/audio-monitor.1186/) if you would like to hear the music too
